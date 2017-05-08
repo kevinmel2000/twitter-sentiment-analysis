@@ -1,8 +1,3 @@
-#### USAGE 
-# 1. edit config.py with your configuration
-# 2. mkdir <dir_name>
-# 3. python tweets_stream.py -q apple -d <dir_name>
-
 #### WORKFLOW
 # 1. Produce the list of tweets for the query "apple" 
 # 2. Save all the output in stream_apple.json
